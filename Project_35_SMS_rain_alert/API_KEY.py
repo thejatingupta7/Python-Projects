@@ -1,7 +1,7 @@
 import requests
 
 lat, lng = 27.569050, 80.684875
-API_KEY = "f404149f037da0886961c157562fead1"
+API_KEY = "API_KEY"
 exclude = "current,minutely,daily"
 API_Endpoint = f"https://api.openweathermap.org/data/2.5/weather?lat={lat}&lon={lng}&exclude={exclude}&appid={API_KEY}"
 

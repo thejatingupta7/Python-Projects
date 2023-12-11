@@ -2,8 +2,8 @@ import requests
 import datetime
 
 PIXELA_ENDPOINT = "https://pixe.la/v1/users"
-USERNAME = "jojo7siva"
-TOKEN = "ksjijwjndwndwdw"
+USERNAME = "USERNAME"
+TOKEN = "KEY"
 
 # TODO 1 : Creating Pixela account
 user_params = {

@@ -6,8 +6,8 @@ WEIGHT_KG = 78
 HEIGHT_CM = 180
 AGE = 19
 
-APP_ID = "a034cdaf"
-API_KEY = "fa67fe12add539b05b26bb237ca7876b"
+APP_ID = "ID"
+API_KEY = "APIKEY"
 
 exercise_endpoint = "https://trackapi.nutritionix.com/v2/natural/exercise"
 
